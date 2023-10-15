@@ -47,4 +47,4 @@ Dedicated and intuitive software architect and researcher with 2 years of indust
 ## Connect
 
 - LinkedIn: [Muhammad Khatibsyarbini](https://www.linkedin.com/in/khatibsyarbini)
-- GitHub: [github.com/khatibsyarbini](https://github.com/Dr-Khatib)
+- GitHub: [github.com/Dr-Khatib](https://github.com/Dr-Khatib)
