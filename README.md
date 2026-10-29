@@ -9,8 +9,8 @@ Dedicated and intuitive software architect and researcher with 2 years of indust
 
 ## Classes
 
-- DSA 20262027-1 (Link: )
-- GitHub Guideline (Link: )
+- [DSA 20262027-1] (Link: )
+- [Learn GitHub](https://github.com/Dr-Khatib/learn-github)
 
 ## Expertise
 
