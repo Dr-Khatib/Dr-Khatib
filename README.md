@@ -7,22 +7,10 @@ Dedicated and intuitive software architect and researcher with 2 years of indust
 - Email: khatibsyarbini@utm.my, fkmuhammad4@gmail.com
 - Phone: +60135099215
 
-## Education
+## Classes
 
-- **PhD in Computer Science**
-  - *Software Engineering*
-  - Universiti Teknologi Malaysia
-  - Year: 2022
-
-- **Master in Computer Science**
-  - *Software Engineering*
-  - Universiti Teknologi Malaysia
-  - Year: 2019
-
-- **Bachelor of Computer Science**
-  - *Software Engineering*
-  - Universiti Teknologi Malaysia
-  - Year: 2016
+- DSA 20262027-1 (Link: )
+- GitHub Guideline (Link: )
 
 ## Expertise
 
